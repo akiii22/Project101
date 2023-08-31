@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background: linear-gradient(to bottom right, #ff6b6b, lightyellow);
+}
+
+.container {
+  background-color: rgba(255, 255, 255, .1);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, .5);
+  padding: 30px;
+  border-radius: 20px;
+  width: 90%;
+  margin: 15px;
+  text-align: center;
+}
+
+.heading {
+  font-size: 37px;
+  font-weight: 900;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.qoute {
+  font-size: 33px;
+  font-weight: 600;
+}
+
+.author {
+  font-size: 27px;
+  margin: 10px;
+  font-style: oblique;
+}
+
+.btn {
+  font-size: 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  padding: 11px;
+  margin-top: 15px;
+  letter-spacing: 2px;
+  background-color: rgba(255, 255, 255, .5);
+  border-color: rgba(255, 255, 255, .4);
+  width: 200px;
+}
+
+.btn:hover{
+  background-color: rgba(255, 255, 255, .7);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, .5);
+}
+
+#love-el{
+  margin-left: 10px;
+}
+
