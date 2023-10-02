@@ -23,13 +23,8 @@ getQoute();
 
 function remainderText() {
   alert(`Hey Bonaks,
-
-I know you've got this! Your dedication and hard work have led you to this moment, and I have no doubt that you're going to shine during your report. Remember, every challenge you've overcome has only made you stronger and more capable.
-I'm here cheering you on from the sidelines, my love. You have my unwavering support and all the love in the world. Don't let nerves hold you back; you're destined for greatness. Your passion and brilliance will undoubtedly captivate everyone in the room.
-Just like the quote goes, 'Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. You embody that spirit, and I can't wait to hear about your success after you rock that presentation.
-You've got not only the talent but also the heart to conquer anything you set your mind to. Remember, I believe in you and your abilities, and I'm right here sending you all the positive energy you need.
-Go out there and give it your best shot, and know that I'm right here, proud of you and loving you all the way.
-You're amazing, and I can't wait to celebrate your victory together.
+In life's intricate tapestry, challenges often conceal opportunities, and setbacks can be stepping stones to success. Embrace each moment with resilience, for even in the shadows, the brilliance of your potential awaits its chance to shine. Remember, storms pass, but the sun, undeterred, rises again. Your journey holds a myriad of possibilities, each contributing to the mosaic of a brighter, more fulfilling existence.
+ 
 Seryoso mode muna,
 Jerome Pogi`);
 }
